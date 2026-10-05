@@ -1,0 +1,15 @@
+DECODELABS - ARTIFICIAL INTELLIGENCE
+PROJECT 3: AI RECOMMENDATION LOGIC
+
+Goal:
+Create a simple recommendation system based on user preferences.
+
+Key Requirements:
+1. Take user input (choices or interests).
+2. Match preferences using logic or similarity.
+3. Display recommended items.
+
+Key Skills:
+- Logic building
+- Pattern matching
+- Recommendation concepts
